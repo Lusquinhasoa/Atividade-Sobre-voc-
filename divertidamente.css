@@ -1,0 +1,13 @@
+p{
+    padding: 30px;
+    width: 400px;
+    border: 1px;
+    margin: auto;
+}
+h1{
+    margin: auto;
+    text-decoration: underline;
+}
+body{
+    background-color: antiquewhite;
+}
